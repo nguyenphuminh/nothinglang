@@ -1,0 +1,2 @@
+# Nothinglang
+The worst esolang.
